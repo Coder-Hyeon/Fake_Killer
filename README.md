@@ -14,7 +14,7 @@ You should use this program only referencing way, judging is only your share.
 If you abuse this program, you can be punished by law, and responsibility also belongs to you.
 Using this program is equal to knowing above contents.
 
-V.01
+##V.01
 지원 SNS는 트위터밖에 없습니다
 트위터 아이디를 입력하면 해당 계정의 이미지를 긁어서 일괄적으로 구글 이미지 검색을 실행합니다.
 
